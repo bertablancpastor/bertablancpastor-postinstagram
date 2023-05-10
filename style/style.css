@@ -1,0 +1,66 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+.postcard{    
+    width: 500px;
+    margin: auto;
+}
+
+.post{
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+
+.html{
+    padding: 10px;
+}
+
+.title{
+    width: 410px;
+    margin: 5px;
+}
+
+div.title p{
+    
+}
+
+p{
+    margin: 5px;
+}
+
+
+img{
+    height: 374px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.contenido{
+    background-color: white;
+}
+
+#emotis{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.like .comment .send .save{
+    margin: 10px;
+}
+
+.send{
+    width: 400px;
+}
+
+.comment{
+    padding: 10px;
+}
+
+.likes{
+    margin: 10px;
+}
