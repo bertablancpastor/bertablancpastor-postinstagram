@@ -3,54 +3,47 @@ body{
     background-color: black;
 }
 
-.postcard{    
+.main_postcard{    
     width: 500px;
     margin: auto;
 }
 
-.post{
+.header__post{
     background-color: white;
     display: flex;
     align-items: center;
 }
 
-.html{
+.header__logo{
     padding: 10px;
 }
 
-.title{
+.header__title{
     width: 410px;
     margin: 5px;
 }
 
-div.title p{
-    
-}
 
 p{
     margin: 5px;
 }
 
 
-img{
+.section__img{
     height: 374px;
     display: flex;
     align-items: center;
     margin: auto;
 }
 
-.contenido{
+.article__contenido{
     background-color: white;
 }
 
-#emotis{
+#section__emotis{
     display: flex;
     align-items: center;
     padding: 10px;
-}
-
-.like .comment .send .save{
-    margin: 10px;
 }
 
 .send{
@@ -61,6 +54,14 @@ img{
     padding: 10px;
 }
 
-.likes{
+.section__text{
+    padding: 10px;
+}
+
+.like{
+    margin: 10px;
+}
+
+.text{
     margin: 10px;
 }
